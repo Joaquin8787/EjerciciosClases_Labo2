@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Usuario\source\repos\CentralTelefonica\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
